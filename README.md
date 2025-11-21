@@ -1,1 +1,1 @@
-# Investment
+calculator of GUI
