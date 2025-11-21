@@ -1,1 +1,1 @@
-calculator of GUI
+calculator of compound interest 
